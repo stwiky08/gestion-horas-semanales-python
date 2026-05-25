@@ -36,7 +36,7 @@ gestion-horas-semanales-python/
 
 ## Autor
 
-Nombre: [Tu Nombre]
+Nombre: Andru Stwar Rincon Gomez
 
 ## Repositorio
 
